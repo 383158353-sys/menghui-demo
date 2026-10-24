@@ -1,12 +1,21 @@
 《梦回之镜》第1场轻量网页试跑
 ================================
 
-怎么打开
+在线地址
+--------
+https://383158353-sys.github.io/menghui-demo/
+
+怎么打开（本地）
 --------
 1. 用浏览器直接打开本目录下的 index.html
    （双击，或拖进 Chrome / Edge / Firefox；无需联网）
 2. 点「开始」进入寝室闪回
 3. 点击对话框，或按空格 / Enter，推进下一句
+
+画面规格
+--------
+舞台固定 3:2 比例，适配电脑屏（尽量占满视口且不裁切）。
+立绘为 3:2 厚涂二次元半身 PNG（透明底），底部居中显示。
 
 覆盖到哪一句
 ------------
@@ -28,14 +37,13 @@ menghui-demo/
   index.html          单页（HTML+CSS+JS，无构建）
   assets/
     bg-dorm.jpg       暖色寝室/旅舍背景
-    char-limo.png     李沫立绘（透明底）
-    char-meng.png     孟子玥立绘（透明底）
-    char-rui.png      睿睿立绘（透明底）
-    *.jpg             同角色 JPG 备用裁切
+    char-limo.png     李沫立绘（3:2 厚涂二次元 · 透明底）
+    char-meng.png     孟子玥立绘（3:2 厚涂二次元 · 透明底）
+    char-rui.png      睿睿立绘（3:2 厚涂二次元 · 透明底）
   README.txt          本说明
   CREDITS.txt         图片来源
 
 注意
 ----
-占位图为公开免费图（Unsplash），非正式立绘/场景。
+角色立绘为 AI 生成厚涂二次元占位（非正式设定）；场景背景仍为 Unsplash。
 本试跑不是完整游戏工程，亦非 Ren'Py。

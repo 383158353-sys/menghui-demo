@@ -1,22 +1,19 @@
-占位图来源（Unsplash，免费可商用；已下载到本地 assets/）
+《梦回之镜》第1场轻量网页 demo
+占位图说明
 ========================================================
+
+在线试玩
+  https://383158353-sys.github.io/menghui-demo/
 
 bg-dorm.jpg
   原图：https://unsplash.com/photos/black-metal-bunk-bed-beside-white-wooden-window-DSyHGrsdn-M
   Unsplash photo-1555854877-bab0e564b8d5
   宿舍/旅舍上下铺室内；本 demo 做了暖色傍晚调色与暗角。
 
-char-limo.png  （李沫 · 干练略疲惫）
-  https://unsplash.com/photos/photo-1544005313-94ddf0286df2
-  已抠透明底 + 半身裁切 + 底部羽化。
+char-limo.png  （李沫）
+char-meng.png  （孟子玥）
+char-rui.png   （睿睿）
+  AI 生成厚涂二次元占位立绘（3:2，1800×1200 PNG，透明底）。
+  已抠除品红/玫红背景；非正式角色设定，非写实照片、非 Unsplash 肖像。
 
-char-meng.png  （孟子玥 · 活泼明亮）
-  https://unsplash.com/photos/photo-1494790108377-be9c29b29330
-  已抠透明底 + 半身裁切 + 底部羽化。
-
-char-rui.png   （睿睿 · 直率义气）
-  https://unsplash.com/photos/photo-1534528741775-53994a69daeb
-  已抠透明底 + 半身裁切 + 底部羽化。
-
-以上均为公开免费肖像/场景占位，非正式角色设定。
 剧本：《梦回之镜》第1场对白。
